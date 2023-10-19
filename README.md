@@ -6,7 +6,7 @@
 [![WhastsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5515981005882)
 
 ![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardozeca&show_icons=true&theme=dracula&count_private=true)
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardozeca&layout=compact&langs_count=7&theme=dracula"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardozeca&layout=compact)
 
 
 ## Tecnologias que estou aprendendo
