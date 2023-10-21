@@ -18,7 +18,7 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-Fazendo faculdade e em busca do meu primeiro emprego como desenvolvedor.
+## Fazendo faculdade e em busca do meu primeiro emprego como desenvolvedor.
 
 A ciência de hoje é a tecnologia de amanhã.
 
